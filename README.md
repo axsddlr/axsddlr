@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Among Us Queue Bot](https://github.com/Rehkloos/queue-bot)
 - 🌱 I’m currently learning NodeJS
 - 💬 Ask me about anime and games.
-- 🌐 (https://www.developer.rehkloos.com)
+- 🌐 https://developer.rehkloos.com
 
 "People are concerned about being first, as opposed to being better"
 

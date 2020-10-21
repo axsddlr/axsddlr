@@ -2,6 +2,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andrexsaddler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrexsaddler/)](https://www.linkedin.com/in/andrexsaddler/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@rehkloos.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@rehkloos.com)](mailto:contact@rehkloos.com)
 ---
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.rehkloos.vercel.app/api/spotify)](https://open.spotify.com/user/Rehkloos)
+---
 
 - 🔭 I’m currently working on [Among Us Queue Bot](https://github.com/Rehkloos/queue-bot)
 - 🌱 I’m currently learning NodeJS

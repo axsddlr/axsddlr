@@ -7,6 +7,13 @@
 [![Spotify](https://novatorem.rehkloos.vercel.app/api/spotify)](https://open.spotify.com/user/Rehkloos)
 ---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+---
+
 - 🔭 I’m currently working on [Among Us Queue Bot](https://github.com/Rehkloos/queue-bot)
 - 🌱 I’m currently learning NodeJS
 - 💬 Ask me about anime and games.

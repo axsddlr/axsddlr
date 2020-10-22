@@ -11,7 +11,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 ---
 
 - 🔭 I’m currently working on [Among Us Queue Bot](https://github.com/Rehkloos/queue-bot)

@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
-2. 🎉 Merged PR [#8](https://github.com/Rehkloos/queue-bot/pull/8) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
-3. 🎉 Merged PR [#7](https://github.com/Rehkloos/queue-bot/pull/7) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
-4. 🎉 Merged PR [#6](https://github.com/Rehkloos/queue-bot/pull/6) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
-5. ❌ Closed PR [#190](https://github.com/Streamers-Workshop/TrovoBot/pull/190) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
+2. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
+3. 🎉 Merged PR [#8](https://github.com/Rehkloos/queue-bot/pull/8) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
+4. 🎉 Merged PR [#7](https://github.com/Rehkloos/queue-bot/pull/7) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
+5. 🎉 Merged PR [#6](https://github.com/Rehkloos/queue-bot/pull/6) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
 <!--END_SECTION:activity-->
 
 ---

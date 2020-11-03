@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
-2. 🗣 Commented on [#5](https://github.com/RedfishGroup/firebase_worker_queue/issues/5) in [RedfishGroup/firebase_worker_queue](https://github.com/RedfishGroup/firebase_worker_queue)
-3. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
+1. 💪 Opened PR [#209](https://github.com/Streamers-Workshop/TrovoBot/pull/209) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
+2. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
+3. 🗣 Commented on [#5](https://github.com/RedfishGroup/firebase_worker_queue/issues/5) in [RedfishGroup/firebase_worker_queue](https://github.com/RedfishGroup/firebase_worker_queue)
 4. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
-5. 🎉 Merged PR [#8](https://github.com/Rehkloos/queue-bot/pull/8) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
+5. 🗣 Commented on [#203](https://github.com/Streamers-Workshop/TrovoBot/issues/203) in [Streamers-Workshop/TrovoBot](https://github.com/Streamers-Workshop/TrovoBot)
 <!--END_SECTION:activity-->
 
 ---

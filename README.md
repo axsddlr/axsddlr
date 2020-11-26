@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Rehkloos/RehkBot/pull/14) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-2. 🎉 Merged PR [#13](https://github.com/Rehkloos/RehkBot/pull/13) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-3. 🎉 Merged PR [#12](https://github.com/Rehkloos/queue-bot/pull/12) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
-4. 🎉 Merged PR [#11](https://github.com/Rehkloos/queue-bot/pull/11) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
-5. 🎉 Merged PR [#10](https://github.com/Rehkloos/queue-bot/pull/10) in [Rehkloos/queue-bot](https://github.com/Rehkloos/queue-bot)
+1. 🎉 Merged PR [#17](https://github.com/Rehkloos/RehkBot/pull/17) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+2. 🎉 Merged PR [#16](https://github.com/Rehkloos/RehkBot/pull/16) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+3. 🎉 Merged PR [#15](https://github.com/Rehkloos/RehkBot/pull/15) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+4. 🎉 Merged PR [#14](https://github.com/Rehkloos/RehkBot/pull/14) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+5. 🎉 Merged PR [#13](https://github.com/Rehkloos/RehkBot/pull/13) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
 <!--END_SECTION:activity-->
 
 ---

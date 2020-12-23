@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Rehkloos/RehkBot/pull/31) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-2. 🎉 Merged PR [#30](https://github.com/Rehkloos/RehkBot/pull/30) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-3. 🎉 Merged PR [#29](https://github.com/Rehkloos/RehkBot/pull/29) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-4. 🎉 Merged PR [#28](https://github.com/Rehkloos/RehkBot/pull/28) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-5. 🎉 Merged PR [#26](https://github.com/Rehkloos/RehkBot/pull/26) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+1. 🗣 Commented on [#2](https://github.com/RumbleMike/ValorantRankedPoints/issues/2) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
+2. 🗣 Commented on [#3](https://github.com/RumbleMike/ValorantRankedPoints/issues/3) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
+3. 🎉 Merged PR [#31](https://github.com/Rehkloos/RehkBot/pull/31) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+4. 🎉 Merged PR [#30](https://github.com/Rehkloos/RehkBot/pull/30) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+5. 🎉 Merged PR [#29](https://github.com/Rehkloos/RehkBot/pull/29) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
 <!--END_SECTION:activity-->
 
 ---

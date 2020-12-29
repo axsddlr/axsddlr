@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Rehkloos/RehkBot/pull/32) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-2. 🗣 Commented on [#2](https://github.com/RumbleMike/ValorantRankedPoints/issues/2) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
-3. 🗣 Commented on [#3](https://github.com/RumbleMike/ValorantRankedPoints/issues/3) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
-4. 🎉 Merged PR [#31](https://github.com/Rehkloos/RehkBot/pull/31) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-5. 🎉 Merged PR [#30](https://github.com/Rehkloos/RehkBot/pull/30) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+1. 🗣 Commented on [#1](https://github.com/enzobonf/GetValorantRankedPointsJS/issues/1) in [enzobonf/GetValorantRankedPointsJS](https://github.com/enzobonf/GetValorantRankedPointsJS)
+2. 🎉 Merged PR [#32](https://github.com/Rehkloos/RehkBot/pull/32) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+3. 🗣 Commented on [#2](https://github.com/RumbleMike/ValorantRankedPoints/issues/2) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
+4. 🗣 Commented on [#3](https://github.com/RumbleMike/ValorantRankedPoints/issues/3) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
+5. 🎉 Merged PR [#31](https://github.com/Rehkloos/RehkBot/pull/31) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
 <!--END_SECTION:activity-->
 
 ---

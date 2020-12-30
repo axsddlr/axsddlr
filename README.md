@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Rehkloos/RehkBot/pull/33) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-2. 🗣 Commented on [#1](https://github.com/enzobonf/GetValorantRankedPointsJS/issues/1) in [enzobonf/GetValorantRankedPointsJS](https://github.com/enzobonf/GetValorantRankedPointsJS)
-3. 🎉 Merged PR [#32](https://github.com/Rehkloos/RehkBot/pull/32) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-4. 🗣 Commented on [#2](https://github.com/RumbleMike/ValorantRankedPoints/issues/2) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
-5. 🗣 Commented on [#3](https://github.com/RumbleMike/ValorantRankedPoints/issues/3) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
+1. ❗️ Opened issue [#1](https://github.com/jtorresdev/valorant-elo-tracker-cli/issues/1) in [jtorresdev/valorant-elo-tracker-cli](https://github.com/jtorresdev/valorant-elo-tracker-cli)
+2. 🎉 Merged PR [#33](https://github.com/Rehkloos/RehkBot/pull/33) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+3. 🗣 Commented on [#1](https://github.com/enzobonf/GetValorantRankedPointsJS/issues/1) in [enzobonf/GetValorantRankedPointsJS](https://github.com/enzobonf/GetValorantRankedPointsJS)
+4. 🎉 Merged PR [#32](https://github.com/Rehkloos/RehkBot/pull/32) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+5. 🗣 Commented on [#2](https://github.com/RumbleMike/ValorantRankedPoints/issues/2) in [RumbleMike/ValorantRankedPoints](https://github.com/RumbleMike/ValorantRankedPoints)
 <!--END_SECTION:activity-->
 
 ---

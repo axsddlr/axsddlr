@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/cryptic20/valorant-discord/issues/1) in [cryptic20/valorant-discord](https://github.com/cryptic20/valorant-discord)
-2. 🎉 Merged PR [#35](https://github.com/Rehkloos/RehkBot/pull/35) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-3. 🎉 Merged PR [#34](https://github.com/Rehkloos/RehkBot/pull/34) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-4. ❗️ Opened issue [#1](https://github.com/jtorresdev/valorant-elo-tracker-cli/issues/1) in [jtorresdev/valorant-elo-tracker-cli](https://github.com/jtorresdev/valorant-elo-tracker-cli)
-5. 🎉 Merged PR [#33](https://github.com/Rehkloos/RehkBot/pull/33) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+1. 🎉 Merged PR [#36](https://github.com/Rehkloos/RehkBot/pull/36) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+2. 🎉 Merged PR [#37](https://github.com/Rehkloos/RehkBot/pull/37) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+3. 🎉 Merged PR [#38](https://github.com/Rehkloos/RehkBot/pull/38) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
+4. ❗️ Opened issue [#1](https://github.com/cryptic20/valorant-discord/issues/1) in [cryptic20/valorant-discord](https://github.com/cryptic20/valorant-discord)
+5. 🎉 Merged PR [#35](https://github.com/Rehkloos/RehkBot/pull/35) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
 <!--END_SECTION:activity-->
 
 ---

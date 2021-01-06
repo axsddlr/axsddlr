@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/picklejason/ValorantRankedPointsBot/pull/1) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
-2. 🎉 Merged PR [#36](https://github.com/Rehkloos/RehkBot/pull/36) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-3. 🎉 Merged PR [#37](https://github.com/Rehkloos/RehkBot/pull/37) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-4. 🎉 Merged PR [#38](https://github.com/Rehkloos/RehkBot/pull/38) in [Rehkloos/RehkBot](https://github.com/Rehkloos/RehkBot)
-5. ❗️ Opened issue [#1](https://github.com/cryptic20/valorant-discord/issues/1) in [cryptic20/valorant-discord](https://github.com/cryptic20/valorant-discord)
+1. 🎉 Merged PR [#4](https://github.com/Rehkloos/Rehkbot_py/pull/4) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+2. 🎉 Merged PR [#5](https://github.com/Rehkloos/Rehkbot_py/pull/5) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+3. 🎉 Merged PR [#7](https://github.com/Rehkloos/Rehkbot_py/pull/7) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+4. 🎉 Merged PR [#8](https://github.com/Rehkloos/Rehkbot_py/pull/8) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+5. 🎉 Merged PR [#6](https://github.com/Rehkloos/Rehkbot_py/pull/6) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

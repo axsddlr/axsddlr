@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Rehkloos/Rehkbot_py/pull/15) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-2. 🎉 Merged PR [#12](https://github.com/Rehkloos/Rehkbot_py/pull/12) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-3. 🎉 Merged PR [#14](https://github.com/Rehkloos/Rehkbot_py/pull/14) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-4. 🗣 Commented on [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
-5. 🎉 Merged PR [#11](https://github.com/Rehkloos/Rehkbot_py/pull/11) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+1. 🗣 Commented on [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+2. 🗣 Commented on [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+3. 🗣 Commented on [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+4. 🎉 Merged PR [#15](https://github.com/Rehkloos/Rehkbot_py/pull/15) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+5. 🎉 Merged PR [#12](https://github.com/Rehkloos/Rehkbot_py/pull/12) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

@@ -10,10 +10,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/picklejason/ValorantRankedPointsBot/issues/3) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
-2. ❗️ Opened issue [#3](https://github.com/picklejason/ValorantRankedPointsBot/issues/3) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
-3. 🗣 Commented on [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
-4. ❗️ Closed issue [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+1. ❗️ Opened issue [#5](https://github.com/picklejason/ValorantRankedPointsBot/issues/5) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+2. ❗️ Closed issue [#3](https://github.com/picklejason/ValorantRankedPointsBot/issues/3) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+3. 🗣 Commented on [#3](https://github.com/picklejason/ValorantRankedPointsBot/issues/3) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
+4. ❗️ Opened issue [#3](https://github.com/picklejason/ValorantRankedPointsBot/issues/3) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
 5. 🗣 Commented on [#2](https://github.com/picklejason/ValorantRankedPointsBot/issues/2) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
 <!--END_SECTION:activity-->
 

@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Rehkloos/Rehkbot_py/pull/18) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-2. ❗️ Closed issue [#1](https://github.com/Rehkloos/valorant_Nightbot/issues/1) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
-3. 🗣 Commented on [#1](https://github.com/Rehkloos/valorant_Nightbot/issues/1) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
-4. ❗️ Closed issue [#5](https://github.com/picklejason/ValorantRankedPointsBot/issues/5) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
-5. 🎉 Merged PR [#17](https://github.com/Rehkloos/Rehkbot_py/pull/17) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+1. 🎉 Merged PR [#19](https://github.com/Rehkloos/Rehkbot_py/pull/19) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+2. 🎉 Merged PR [#18](https://github.com/Rehkloos/Rehkbot_py/pull/18) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+3. ❗️ Closed issue [#1](https://github.com/Rehkloos/valorant_Nightbot/issues/1) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
+4. 🗣 Commented on [#1](https://github.com/Rehkloos/valorant_Nightbot/issues/1) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
+5. ❗️ Closed issue [#5](https://github.com/picklejason/ValorantRankedPointsBot/issues/5) in [picklejason/ValorantRankedPointsBot](https://github.com/picklejason/ValorantRankedPointsBot)
 <!--END_SECTION:activity-->
 
 ---

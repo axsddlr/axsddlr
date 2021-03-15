@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Rehkloos/valorant_Nightbot/issues/2) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
-2. 🎉 Merged PR [#25](https://github.com/Rehkloos/Rehkbot_py/pull/25) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-3. 🎉 Merged PR [#28](https://github.com/Rehkloos/Rehkbot_py/pull/28) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-4. 🎉 Merged PR [#27](https://github.com/Rehkloos/Rehkbot_py/pull/27) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-5. 🎉 Merged PR [#24](https://github.com/Rehkloos/Rehkbot_py/pull/24) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+1. 🎉 Merged PR [#30](https://github.com/Rehkloos/Rehkbot_py/pull/30) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+2. 🗣 Commented on [#2](https://github.com/Rehkloos/valorant_Nightbot/issues/2) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
+3. 🎉 Merged PR [#25](https://github.com/Rehkloos/Rehkbot_py/pull/25) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+4. 🎉 Merged PR [#28](https://github.com/Rehkloos/Rehkbot_py/pull/28) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+5. 🎉 Merged PR [#27](https://github.com/Rehkloos/Rehkbot_py/pull/27) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

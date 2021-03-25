@@ -10,11 +10,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Rehkloos/valorant_Nightbot/issues/2) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
-2. 🗣 Commented on [#26](https://github.com/SchwaIndustries/ScrimBot/issues/26) in [SchwaIndustries/ScrimBot](https://github.com/SchwaIndustries/ScrimBot)
-3. ❗️ Opened issue [#26](https://github.com/SchwaIndustries/ScrimBot/issues/26) in [SchwaIndustries/ScrimBot](https://github.com/SchwaIndustries/ScrimBot)
-4. 🎉 Merged PR [#30](https://github.com/Rehkloos/Rehkbot_py/pull/30) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-5. 🗣 Commented on [#2](https://github.com/Rehkloos/valorant_Nightbot/issues/2) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
+1. 🎉 Merged PR [#31](https://github.com/Rehkloos/Rehkbot_py/pull/31) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+2. ❗️ Closed issue [#2](https://github.com/Rehkloos/valorant_Nightbot/issues/2) in [Rehkloos/valorant_Nightbot](https://github.com/Rehkloos/valorant_Nightbot)
+3. 🗣 Commented on [#26](https://github.com/SchwaIndustries/ScrimBot/issues/26) in [SchwaIndustries/ScrimBot](https://github.com/SchwaIndustries/ScrimBot)
+4. ❗️ Opened issue [#26](https://github.com/SchwaIndustries/ScrimBot/issues/26) in [SchwaIndustries/ScrimBot](https://github.com/SchwaIndustries/ScrimBot)
+5. 🎉 Merged PR [#30](https://github.com/Rehkloos/Rehkbot_py/pull/30) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

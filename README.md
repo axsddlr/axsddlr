@@ -21,7 +21,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Among Us Queue Bot](https://github.com/Rehkloos/queue-bot)
+- 🔭 I’m currently working on [RehkBot](https://github.com/Rehkloos/Rehkbot_py)
 - 🌱 I’m currently learning NodeJS
 - 💬 Ask me about anime and games.
 - 🌐 https://developer.rehkloos.com

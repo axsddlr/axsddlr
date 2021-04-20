@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/Rehkloos/Rehkbot_py/pull/43) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-2. 🎉 Merged PR [#42](https://github.com/Rehkloos/Rehkbot_py/pull/42) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-3. 🎉 Merged PR [#41](https://github.com/Rehkloos/Rehkbot_py/pull/41) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-4. 🎉 Merged PR [#40](https://github.com/Rehkloos/Rehkbot_py/pull/40) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-5. 🎉 Merged PR [#38](https://github.com/Rehkloos/Rehkbot_py/pull/38) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+1. 🎉 Merged PR [#44](https://github.com/Rehkloos/Rehkbot_py/pull/44) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+2. 🎉 Merged PR [#43](https://github.com/Rehkloos/Rehkbot_py/pull/43) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+3. 🎉 Merged PR [#42](https://github.com/Rehkloos/Rehkbot_py/pull/42) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+4. 🎉 Merged PR [#41](https://github.com/Rehkloos/Rehkbot_py/pull/41) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+5. 🎉 Merged PR [#40](https://github.com/Rehkloos/Rehkbot_py/pull/40) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

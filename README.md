@@ -12,9 +12,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rehkloos/ApexNightbot/pull/2) in [Rehkloos/ApexNightbot](https://github.com/Rehkloos/ApexNightbot)
-2. 🎉 Merged PR [#50](https://github.com/Rehkloos/Rehkbot_py/pull/50) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-3. 🎉 Merged PR [#47](https://github.com/Rehkloos/Rehkbot_py/pull/47) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+1. 🎉 Merged PR [#51](https://github.com/Rehkloos/Rehkbot_py/pull/51) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+2. 🎉 Merged PR [#2](https://github.com/Rehkloos/ApexNightbot/pull/2) in [Rehkloos/ApexNightbot](https://github.com/Rehkloos/ApexNightbot)
+3. 🎉 Merged PR [#50](https://github.com/Rehkloos/Rehkbot_py/pull/50) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 4. 🎉 Merged PR [#46](https://github.com/Rehkloos/Rehkbot_py/pull/46) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 5. 🎉 Merged PR [#45](https://github.com/Rehkloos/Rehkbot_py/pull/45) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->

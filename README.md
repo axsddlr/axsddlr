@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Gabryy-yy/Valorant-InstaLocker/issues/3) in [Gabryy-yy/Valorant-InstaLocker](https://github.com/Gabryy-yy/Valorant-InstaLocker)
-2. 🎉 Merged PR [#54](https://github.com/Rehkloos/Rehkbot_py/pull/54) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-3. 🎉 Merged PR [#53](https://github.com/Rehkloos/Rehkbot_py/pull/53) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-4. 🎉 Merged PR [#52](https://github.com/Rehkloos/Rehkbot_py/pull/52) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-5. ❗️ Closed issue [#1](https://github.com/Gabryy-yy/Valorant-InstaLocker/issues/1) in [Gabryy-yy/Valorant-InstaLocker](https://github.com/Gabryy-yy/Valorant-InstaLocker)
+1. ❗️ Opened issue [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
+2. ❗️ Opened issue [#3](https://github.com/Gabryy-yy/Valorant-InstaLocker/issues/3) in [Gabryy-yy/Valorant-InstaLocker](https://github.com/Gabryy-yy/Valorant-InstaLocker)
+3. 🎉 Merged PR [#54](https://github.com/Rehkloos/Rehkbot_py/pull/54) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+4. 🎉 Merged PR [#53](https://github.com/Rehkloos/Rehkbot_py/pull/53) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+5. 🎉 Merged PR [#52](https://github.com/Rehkloos/Rehkbot_py/pull/52) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

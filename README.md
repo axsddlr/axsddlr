@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/dumax315/Tiktok-Auto-Embed/issues/1) in [dumax315/Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed)
-2. ❗️ Opened issue [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
-3. ❗️ Opened issue [#3](https://github.com/Gabryy-yy/Valorant-InstaLocker/issues/3) in [Gabryy-yy/Valorant-InstaLocker](https://github.com/Gabryy-yy/Valorant-InstaLocker)
-4. 🎉 Merged PR [#54](https://github.com/Rehkloos/Rehkbot_py/pull/54) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
-5. 🎉 Merged PR [#53](https://github.com/Rehkloos/Rehkbot_py/pull/53) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
+1. ❗️ Opened issue [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+2. ❗️ Opened issue [#1](https://github.com/dumax315/Tiktok-Auto-Embed/issues/1) in [dumax315/Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed)
+3. ❗️ Opened issue [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
+4. ❗️ Opened issue [#3](https://github.com/Gabryy-yy/Valorant-InstaLocker/issues/3) in [Gabryy-yy/Valorant-InstaLocker](https://github.com/Gabryy-yy/Valorant-InstaLocker)
+5. 🎉 Merged PR [#54](https://github.com/Rehkloos/Rehkbot_py/pull/54) in [Rehkloos/Rehkbot_py](https://github.com/Rehkloos/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

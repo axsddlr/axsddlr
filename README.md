@@ -13,10 +13,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
-2. ❗️ Closed issue [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
-3. 🗣 Commented on [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
-4. ❗️ Opened issue [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
-5. ❗️ Opened issue [#1](https://github.com/dumax315/Tiktok-Auto-Embed/issues/1) in [dumax315/Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed)
+2. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+3. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+4. ❗️ Closed issue [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
+5. 🗣 Commented on [#1](https://github.com/Rehkloos/api-status/issues/1) in [Rehkloos/api-status](https://github.com/Rehkloos/api-status)
 <!--END_SECTION:activity-->
 
 ---

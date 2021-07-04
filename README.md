@@ -12,7 +12,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+1. 💪 Opened PR [#14](https://github.com/colinhartigan/valorant-skin-cli/pull/14) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
 2. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
 3. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
 4. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)

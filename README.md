@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on [Patch Bot](https://github.com/axsddlr/patch_bot)
 - 🌱 I’m currently learning Python, Pandas, BeautifulSoup4
 - 💬 Ask me about anime and games.
-- 🌐 https://developer.rehkloos.com
+- 🌐 https://developer.axsddlr.xyz
 
 "People are concerned about being first, as opposed to being better"
 

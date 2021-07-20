@@ -21,13 +21,13 @@
 
 ---
 
-- 🔭 I’m currently working on [RehkBot](https://github.com/Rehkloos/Rehkbot_py)
-- 🌱 I’m currently learning NodeJS
+- 🔭 I’m currently working on [Patch Bot](https://github.com/axsddlr/patch_bot)
+- 🌱 I’m currently learning Python, Pandas, BeautifulSoup4
 - 💬 Ask me about anime and games.
 - 🌐 https://developer.rehkloos.com
 
 "People are concerned about being first, as opposed to being better"
 
 ---
-![Rehkloos' github stats](https://github-readme-stats.vercel.app/api?username=Rehkloos&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehkloos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Axsddlr' github stats](https://github-readme-stats.vercel.app/api?username=axsddlr&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axsddlr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

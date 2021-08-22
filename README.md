@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/axsddlr/TCCR/issues/1) in [axsddlr/TCCR](https://github.com/axsddlr/TCCR)
-2. 🎉 Merged PR [#56](https://github.com/axsddlr/Rehkbot_py/pull/56) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-3. 🗣 Commented on [#23](https://github.com/hashicorp/next-remote-watch/issues/23) in [hashicorp/next-remote-watch](https://github.com/hashicorp/next-remote-watch)
-4. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+2. 🗣 Commented on [#1](https://github.com/axsddlr/TCCR/issues/1) in [axsddlr/TCCR](https://github.com/axsddlr/TCCR)
+3. 🎉 Merged PR [#56](https://github.com/axsddlr/Rehkbot_py/pull/56) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+4. 🗣 Commented on [#23](https://github.com/hashicorp/next-remote-watch/issues/23) in [hashicorp/next-remote-watch](https://github.com/hashicorp/next-remote-watch)
 5. 🗣 Commented on [#8](https://github.com/colinhartigan/valorant-skin-cli/issues/8) in [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
 <!--END_SECTION:activity-->
 

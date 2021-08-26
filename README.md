@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hackbolt/twitchbotsnbigots/issues/3) in [hackbolt/twitchbotsnbigots](https://github.com/hackbolt/twitchbotsnbigots)
-2. 🗣 Commented on [#1](https://github.com/axsddlr/TCCR/issues/1) in [axsddlr/TCCR](https://github.com/axsddlr/TCCR)
+1. ❗️ Closed issue [#1](https://github.com/axsddlr/developer-portoflio/issues/1) in [axsddlr/developer-portoflio](https://github.com/axsddlr/developer-portoflio)
+2. 🗣 Commented on [#3](https://github.com/hackbolt/twitchbotsnbigots/issues/3) in [hackbolt/twitchbotsnbigots](https://github.com/hackbolt/twitchbotsnbigots)
 3. 🗣 Commented on [#1](https://github.com/axsddlr/TCCR/issues/1) in [axsddlr/TCCR](https://github.com/axsddlr/TCCR)
-4. 🎉 Merged PR [#56](https://github.com/axsddlr/Rehkbot_py/pull/56) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-5. 🗣 Commented on [#23](https://github.com/hashicorp/next-remote-watch/issues/23) in [hashicorp/next-remote-watch](https://github.com/hashicorp/next-remote-watch)
+4. 🗣 Commented on [#1](https://github.com/axsddlr/TCCR/issues/1) in [axsddlr/TCCR](https://github.com/axsddlr/TCCR)
+5. 🎉 Merged PR [#56](https://github.com/axsddlr/Rehkbot_py/pull/56) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/axsddlr/api-status/issues/2) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. 🗣 Commented on [#2](https://github.com/axsddlr/api-status/issues/2) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. ❗️ Opened issue [#2](https://github.com/axsddlr/api-status/issues/2) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. ❗️ Closed issue [#1](https://github.com/axsddlr/developer-portoflio/issues/1) in [axsddlr/developer-portoflio](https://github.com/axsddlr/developer-portoflio)
-5. 🗣 Commented on [#3](https://github.com/hackbolt/twitchbotsnbigots/issues/3) in [hackbolt/twitchbotsnbigots](https://github.com/hackbolt/twitchbotsnbigots)
+1. 🎉 Merged PR [#1](https://github.com/axsddlr/vlrggapi/pull/1) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+2. ❗️ Closed issue [#2](https://github.com/axsddlr/api-status/issues/2) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. 🗣 Commented on [#2](https://github.com/axsddlr/api-status/issues/2) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. ❗️ Opened issue [#2](https://github.com/axsddlr/api-status/issues/2) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. ❗️ Closed issue [#1](https://github.com/axsddlr/developer-portoflio/issues/1) in [axsddlr/developer-portoflio](https://github.com/axsddlr/developer-portoflio)
 <!--END_SECTION:activity-->
 
 ---

@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/axsddlr/Rehkbot_py/pull/58) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-2. ❗️ Closed issue [#4](https://github.com/axsddlr/api-status/issues/4) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. 🗣 Commented on [#4](https://github.com/axsddlr/api-status/issues/4) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. ❗️ Opened issue [#4](https://github.com/axsddlr/api-status/issues/4) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-5. ❗️ Closed issue [#11](https://github.com/demon071/Tiktok-API-Python/issues/11) in [demon071/Tiktok-API-Python](https://github.com/demon071/Tiktok-API-Python)
+1. 🎉 Merged PR [#59](https://github.com/axsddlr/Rehkbot_py/pull/59) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. 🎉 Merged PR [#58](https://github.com/axsddlr/Rehkbot_py/pull/58) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+3. ❗️ Closed issue [#4](https://github.com/axsddlr/api-status/issues/4) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. 🗣 Commented on [#4](https://github.com/axsddlr/api-status/issues/4) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. ❗️ Opened issue [#4](https://github.com/axsddlr/api-status/issues/4) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
 <!--END_SECTION:activity-->
 
 ---

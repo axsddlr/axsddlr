@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/axsddlr/Rehkbot_py/pull/75) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-2. 🎉 Merged PR [#73](https://github.com/axsddlr/Rehkbot_py/pull/73) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-3. 🎉 Merged PR [#74](https://github.com/axsddlr/Rehkbot_py/pull/74) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-4. 🎉 Merged PR [#72](https://github.com/axsddlr/Rehkbot_py/pull/72) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-5. 🎉 Merged PR [#71](https://github.com/axsddlr/Rehkbot_py/pull/71) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🎉 Merged PR [#76](https://github.com/axsddlr/Rehkbot_py/pull/76) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. 🎉 Merged PR [#75](https://github.com/axsddlr/Rehkbot_py/pull/75) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+3. 🎉 Merged PR [#73](https://github.com/axsddlr/Rehkbot_py/pull/73) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+4. 🎉 Merged PR [#74](https://github.com/axsddlr/Rehkbot_py/pull/74) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+5. 🎉 Merged PR [#72](https://github.com/axsddlr/Rehkbot_py/pull/72) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

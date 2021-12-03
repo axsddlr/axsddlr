@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/axsddlr/api-status/issues/7) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. 🗣 Commented on [#7](https://github.com/axsddlr/api-status/issues/7) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. ❗️ Opened issue [#7](https://github.com/axsddlr/api-status/issues/7) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. 🎉 Merged PR [#76](https://github.com/axsddlr/Rehkbot_py/pull/76) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-5. 🎉 Merged PR [#75](https://github.com/axsddlr/Rehkbot_py/pull/75) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🎉 Merged PR [#77](https://github.com/axsddlr/Rehkbot_py/pull/77) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. ❗️ Closed issue [#7](https://github.com/axsddlr/api-status/issues/7) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. 🗣 Commented on [#7](https://github.com/axsddlr/api-status/issues/7) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. ❗️ Opened issue [#7](https://github.com/axsddlr/api-status/issues/7) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. 🎉 Merged PR [#76](https://github.com/axsddlr/Rehkbot_py/pull/76) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

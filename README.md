@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-2. 🗣 Commented on [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-3. 🎉 Merged PR [#80](https://github.com/axsddlr/Rehkbot_py/pull/80) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-4. 🎉 Merged PR [#79](https://github.com/axsddlr/Rehkbot_py/pull/79) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-5. 🎉 Merged PR [#78](https://github.com/axsddlr/Rehkbot_py/pull/78) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🗣 Commented on [#5](https://github.com/frogc0de/TikTok-API/issues/5) in [frogc0de/TikTok-API](https://github.com/frogc0de/TikTok-API)
+2. ❗️ Closed issue [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+3. 🗣 Commented on [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+4. 🎉 Merged PR [#80](https://github.com/axsddlr/Rehkbot_py/pull/80) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+5. 🎉 Merged PR [#79](https://github.com/axsddlr/Rehkbot_py/pull/79) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

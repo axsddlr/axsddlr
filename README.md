@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/axsddlr/Rehkbot_py/pull/82) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-2. 🎉 Merged PR [#81](https://github.com/axsddlr/Rehkbot_py/pull/81) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-3. ❗️ Closed issue [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-4. 🗣 Commented on [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-5. 🎉 Merged PR [#80](https://github.com/axsddlr/Rehkbot_py/pull/80) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🎉 Merged PR [#83](https://github.com/axsddlr/Rehkbot_py/pull/83) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. 🎉 Merged PR [#82](https://github.com/axsddlr/Rehkbot_py/pull/82) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+3. 🎉 Merged PR [#81](https://github.com/axsddlr/Rehkbot_py/pull/81) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+4. ❗️ Closed issue [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+5. 🗣 Commented on [#3](https://github.com/axsddlr/vlrggapi/issues/3) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 <!--END_SECTION:activity-->
 
 ---

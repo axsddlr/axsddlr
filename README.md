@@ -12,7 +12,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/axsddlr/Rehkbot_py/pull/84) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🗣 Commented on [#1](https://github.com/axsddlr/lost_ark_api/issues/1) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 2. 🎉 Merged PR [#85](https://github.com/axsddlr/Rehkbot_py/pull/85) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 3. 🎉 Merged PR [#86](https://github.com/axsddlr/Rehkbot_py/pull/86) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 4. 🎉 Merged PR [#87](https://github.com/axsddlr/Rehkbot_py/pull/87) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)

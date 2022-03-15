@@ -13,8 +13,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/axsddlr/lost_ark_api/issues/2) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
-2. 🗣 Commented on [#1](https://github.com/axsddlr/lost_ark_api/issues/1) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
-3. 🎉 Merged PR [#86](https://github.com/axsddlr/Rehkbot_py/pull/86) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. 🗣 Commented on [#2](https://github.com/axsddlr/lost_ark_api/issues/2) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
+3. 🗣 Commented on [#1](https://github.com/axsddlr/lost_ark_api/issues/1) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 4. 🎉 Merged PR [#87](https://github.com/axsddlr/Rehkbot_py/pull/87) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 5. 🎉 Merged PR [#83](https://github.com/axsddlr/Rehkbot_py/pull/83) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 <!--END_SECTION:activity-->

@@ -12,10 +12,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
-2. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
+1. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
+2. ❗️ Closed issue [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 3. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
-4. 🗣 Commented on [#2](https://github.com/axsddlr/lost_ark_api/issues/2) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
+4. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 5. 🗣 Commented on [#2](https://github.com/axsddlr/lost_ark_api/issues/2) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 <!--END_SECTION:activity-->
 

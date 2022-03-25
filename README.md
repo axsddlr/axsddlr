@@ -12,8 +12,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/axsddlr/lost_ark_api/pull/3) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
-2. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
+1. 🎉 Merged PR [#88](https://github.com/axsddlr/Rehkbot_py/pull/88) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. ❌ Closed PR [#3](https://github.com/axsddlr/lost_ark_api/pull/3) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 3. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 4. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 5. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)

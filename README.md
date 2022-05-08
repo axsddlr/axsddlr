@@ -12,9 +12,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+1. 🗣 Commented on [#130](https://github.com/Jules-WinnfieldX/CyberDropDownloader/issues/130) in [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader)
 2. 🗣 Commented on [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
-3. 🗣 Commented on [#5](https://github.com/axsddlr/lost_ark_api/issues/5) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
+3. 🗣 Commented on [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
 4. 🎉 Merged PR [#88](https://github.com/axsddlr/Rehkbot_py/pull/88) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 5. ❌ Closed PR [#3](https://github.com/axsddlr/lost_ark_api/pull/3) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 <!--END_SECTION:activity-->

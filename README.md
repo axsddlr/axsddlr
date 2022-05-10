@@ -12,10 +12,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/Jules-WinnfieldX/CyberDropDownloader/issues/130) in [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader)
-2. 🗣 Commented on [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+1. ❗️ Closed issue [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+2. 🗣 Commented on [#130](https://github.com/Jules-WinnfieldX/CyberDropDownloader/issues/130) in [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader)
 3. 🗣 Commented on [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
-4. 🎉 Merged PR [#88](https://github.com/axsddlr/Rehkbot_py/pull/88) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+4. 🗣 Commented on [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
 5. ❌ Closed PR [#3](https://github.com/axsddlr/lost_ark_api/pull/3) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 <!--END_SECTION:activity-->
 

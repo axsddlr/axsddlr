@@ -15,8 +15,8 @@
 1. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
 2. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
 3. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
-4. ❗️ Closed issue [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
-5. 🗣 Commented on [#130](https://github.com/Jules-WinnfieldX/CyberDropDownloader/issues/130) in [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader)
+4. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
+5. ❗️ Closed issue [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
 <!--END_SECTION:activity-->
 
 ---

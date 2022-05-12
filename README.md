@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
+1. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 2. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
 3. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
 4. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
-5. ❗️ Closed issue [#1](https://github.com/axsddlr/wombo_bot/issues/1) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+5. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
 <!--END_SECTION:activity-->
 
 ---

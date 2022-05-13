@@ -15,7 +15,7 @@
 1. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 2. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 3. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-4. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
+4. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 5. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
 <!--END_SECTION:activity-->
 

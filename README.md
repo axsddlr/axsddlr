@@ -13,10 +13,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-2. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-3. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-4. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-5. 🗣 Commented on [#36](https://github.com/ajnart/myhomepage/issues/36) in [ajnart/myhomepage](https://github.com/ajnart/myhomepage)
+2. ❗️ Closed issue [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+3. ❗️ Opened issue [#90](https://github.com/ajnart/homarr/issues/90) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. ❗️ Opened issue [#89](https://github.com/ajnart/homarr/issues/89) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 <!--END_SECTION:activity-->
 
 ---

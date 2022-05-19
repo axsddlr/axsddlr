@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-2. ❗️ Closed issue [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-3. ❗️ Opened issue [#90](https://github.com/ajnart/homarr/issues/90) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. ❗️ Opened issue [#89](https://github.com/ajnart/homarr/issues/89) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+1. 🎉 Merged PR [#90](https://github.com/axsddlr/Rehkbot_py/pull/90) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+3. ❗️ Closed issue [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+4. ❗️ Opened issue [#90](https://github.com/ajnart/homarr/issues/90) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. ❗️ Opened issue [#89](https://github.com/ajnart/homarr/issues/89) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 ---

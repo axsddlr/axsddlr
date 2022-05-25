@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/axsddlr/wombo_bot/issues/2) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
-2. 🗣 Commented on [#2](https://github.com/axsddlr/wombo_bot/issues/2) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
-3. 🎉 Merged PR [#90](https://github.com/axsddlr/Rehkbot_py/pull/90) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-4. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
-5. ❗️ Closed issue [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
+1. 🗣 Commented on [#3](https://github.com/axsddlr/wombo_bot/issues/3) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+2. ❗️ Closed issue [#2](https://github.com/axsddlr/wombo_bot/issues/2) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+3. 🗣 Commented on [#2](https://github.com/axsddlr/wombo_bot/issues/2) in [axsddlr/wombo_bot](https://github.com/axsddlr/wombo_bot)
+4. 🎉 Merged PR [#90](https://github.com/axsddlr/Rehkbot_py/pull/90) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+5. 🗣 Commented on [#4](https://github.com/axsddlr/vlrggapi/issues/4) in [axsddlr/vlrggapi](https://github.com/axsddlr/vlrggapi)
 <!--END_SECTION:activity-->
 
 ---

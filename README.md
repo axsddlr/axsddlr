@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/axsddlr/api-status/issues/12) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. 🗣 Commented on [#12](https://github.com/axsddlr/api-status/issues/12) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. ❗️ Opened issue [#12](https://github.com/axsddlr/api-status/issues/12) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. 🗣 Commented on [#14](https://github.com/beromir/Servas/issues/14) in [beromir/Servas](https://github.com/beromir/Servas)
-5. 🗣 Commented on [#234](https://github.com/alextran1502/immich/issues/234) in [alextran1502/immich](https://github.com/alextran1502/immich)
+1. ❗️ Closed issue [#13](https://github.com/axsddlr/api-status/issues/13) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+2. 🗣 Commented on [#13](https://github.com/axsddlr/api-status/issues/13) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. ❗️ Opened issue [#13](https://github.com/axsddlr/api-status/issues/13) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. ❗️ Closed issue [#12](https://github.com/axsddlr/api-status/issues/12) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. 🗣 Commented on [#12](https://github.com/axsddlr/api-status/issues/12) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
 <!--END_SECTION:activity-->
 
 ---

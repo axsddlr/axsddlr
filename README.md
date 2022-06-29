@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/axsddlr/api-status/issues/14) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. ❗️ Closed issue [#18](https://github.com/beromir/Servas/issues/18) in [beromir/Servas](https://github.com/beromir/Servas)
-3. ❗️ Opened issue [#18](https://github.com/beromir/Servas/issues/18) in [beromir/Servas](https://github.com/beromir/Servas)
-4. ❗️ Opened issue [#17](https://github.com/beromir/Servas/issues/17) in [beromir/Servas](https://github.com/beromir/Servas)
-5. 🗣 Commented on [#260](https://github.com/ajnart/homarr/issues/260) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#14](https://github.com/axsddlr/api-status/issues/14) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+2. ❗️ Closed issue [#14](https://github.com/axsddlr/api-status/issues/14) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. ❗️ Opened issue [#14](https://github.com/axsddlr/api-status/issues/14) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. ❗️ Closed issue [#18](https://github.com/beromir/Servas/issues/18) in [beromir/Servas](https://github.com/beromir/Servas)
+5. ❗️ Opened issue [#18](https://github.com/beromir/Servas/issues/18) in [beromir/Servas](https://github.com/beromir/Servas)
 <!--END_SECTION:activity-->
 
 ---

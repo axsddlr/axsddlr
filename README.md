@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/axsddlr/api-status/issues/23) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. ❗️ Closed issue [#22](https://github.com/axsddlr/api-status/issues/22) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. 🗣 Commented on [#22](https://github.com/axsddlr/api-status/issues/22) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. ❗️ Opened issue [#22](https://github.com/axsddlr/api-status/issues/22) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-5. 🗣 Commented on [#21](https://github.com/axsddlr/api-status/issues/21) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+1. 🗣 Commented on [#23](https://github.com/axsddlr/api-status/issues/23) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+2. ❗️ Closed issue [#23](https://github.com/axsddlr/api-status/issues/23) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. ❗️ Opened issue [#23](https://github.com/axsddlr/api-status/issues/23) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. ❗️ Closed issue [#22](https://github.com/axsddlr/api-status/issues/22) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. 🗣 Commented on [#22](https://github.com/axsddlr/api-status/issues/22) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
 <!--END_SECTION:activity-->
 
 ---

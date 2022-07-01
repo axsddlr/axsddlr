@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/axsddlr/api-status/issues/24) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. ❗️ Closed issue [#24](https://github.com/axsddlr/api-status/issues/24) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. ❗️ Opened issue [#24](https://github.com/axsddlr/api-status/issues/24) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. ❗️ Opened issue [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
-5. 🗣 Commented on [#23](https://github.com/axsddlr/api-status/issues/23) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+1. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
+2. 🗣 Commented on [#24](https://github.com/axsddlr/api-status/issues/24) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. ❗️ Closed issue [#24](https://github.com/axsddlr/api-status/issues/24) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. ❗️ Opened issue [#24](https://github.com/axsddlr/api-status/issues/24) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. ❗️ Opened issue [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
 <!--END_SECTION:activity-->
 
 ---

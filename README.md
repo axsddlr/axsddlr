@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Daniel31x13/link-warden/issues/13) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
-2. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
-3. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
-4. ❗️ Opened issue [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-5. ❗️ Closed issue [#26](https://github.com/axsddlr/api-status/issues/26) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+1. ❗️ Closed issue [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+2. 🗣 Commented on [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. 🗣 Commented on [#13](https://github.com/Daniel31x13/link-warden/issues/13) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
+4. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
+5. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
 <!--END_SECTION:activity-->
 
 ---

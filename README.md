@@ -12,10 +12,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. 🗣 Commented on [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. 🗣 Commented on [#13](https://github.com/Daniel31x13/link-warden/issues/13) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
-4. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
+1. 🗣 Commented on [#1](https://github.com/axsddlr/rpilocator_api/issues/1) in [axsddlr/rpilocator_api](https://github.com/axsddlr/rpilocator_api)
+2. ❗️ Closed issue [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. 🗣 Commented on [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. 🗣 Commented on [#13](https://github.com/Daniel31x13/link-warden/issues/13) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
 5. 🗣 Commented on [#12](https://github.com/Daniel31x13/link-warden/issues/12) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)
 <!--END_SECTION:activity-->
 

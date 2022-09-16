@@ -12,7 +12,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/axsddlr/rpilocator_api/issues/1) in [axsddlr/rpilocator_api](https://github.com/axsddlr/rpilocator_api)
+1. ❗️ Opened issue [#21](https://github.com/jsavargas/zspotify/issues/21) in [jsavargas/zspotify](https://github.com/jsavargas/zspotify)
 2. ❗️ Closed issue [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
 3. 🗣 Commented on [#27](https://github.com/axsddlr/api-status/issues/27) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
 4. 🗣 Commented on [#13](https://github.com/Daniel31x13/link-warden/issues/13) in [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden)

@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/axsddlr/Rehkbot_py/pull/94) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-2. 🎉 Merged PR [#95](https://github.com/axsddlr/Rehkbot_py/pull/95) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-3. 🎉 Merged PR [#96](https://github.com/axsddlr/Rehkbot_py/pull/96) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-4. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
-5. ❗️ Closed issue [#28](https://github.com/axsddlr/api-status/issues/28) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+1. 🗣 Commented on [#36](https://github.com/jsavargas/zspotify/issues/36) in [jsavargas/zspotify](https://github.com/jsavargas/zspotify)
+2. 🎉 Merged PR [#94](https://github.com/axsddlr/Rehkbot_py/pull/94) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+3. 🎉 Merged PR [#95](https://github.com/axsddlr/Rehkbot_py/pull/95) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+4. 🎉 Merged PR [#96](https://github.com/axsddlr/Rehkbot_py/pull/96) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+5. 🗣 Commented on [#4](https://github.com/axsddlr/lost_ark_api/issues/4) in [axsddlr/lost_ark_api](https://github.com/axsddlr/lost_ark_api)
 <!--END_SECTION:activity-->
 
 ---

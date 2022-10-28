@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-2. ❗️ Opened issue [#10](https://github.com/oae/kaizoku/issues/10) in [oae/kaizoku](https://github.com/oae/kaizoku)
-3. 🗣 Commented on [#36](https://github.com/jsavargas/zspotify/issues/36) in [jsavargas/zspotify](https://github.com/jsavargas/zspotify)
-4. 🎉 Merged PR [#94](https://github.com/axsddlr/Rehkbot_py/pull/94) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-5. 🎉 Merged PR [#95](https://github.com/axsddlr/Rehkbot_py/pull/95) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+2. ❗️ Opened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+3. ❗️ Opened issue [#10](https://github.com/oae/kaizoku/issues/10) in [oae/kaizoku](https://github.com/oae/kaizoku)
+4. 🗣 Commented on [#36](https://github.com/jsavargas/zspotify/issues/36) in [jsavargas/zspotify](https://github.com/jsavargas/zspotify)
+5. 🎉 Merged PR [#94](https://github.com/axsddlr/Rehkbot_py/pull/94) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 <!--END_SECTION:activity-->
 
 ---

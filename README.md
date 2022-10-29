@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+1. ❗️ Closed issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
 2. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-3. ❗️ Opened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-4. ❗️ Opened issue [#10](https://github.com/oae/kaizoku/issues/10) in [oae/kaizoku](https://github.com/oae/kaizoku)
-5. 🗣 Commented on [#36](https://github.com/jsavargas/zspotify/issues/36) in [jsavargas/zspotify](https://github.com/jsavargas/zspotify)
+3. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+4. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+5. ❗️ Opened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
 <!--END_SECTION:activity-->
 
 ---

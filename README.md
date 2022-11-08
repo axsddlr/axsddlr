@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-2. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-3. ❗️ Reopened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-4. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-5. ❗️ Closed issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+1. 🎉 Merged PR [#97](https://github.com/axsddlr/Rehkbot_py/pull/97) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. ❗️ Closed issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+3. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+4. ❗️ Reopened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+5. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
 <!--END_SECTION:activity-->
 
 ---

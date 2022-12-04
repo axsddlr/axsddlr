@@ -12,7 +12,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/axsddlr/Rehkbot_py/pull/97) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+1. 🎉 Merged PR [#98](https://github.com/axsddlr/Rehkbot_py/pull/98) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 2. ❗️ Closed issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
 3. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
 4. ❗️ Reopened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)

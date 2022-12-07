@@ -12,10 +12,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-2. 🎉 Merged PR [#98](https://github.com/axsddlr/Rehkbot_py/pull/98) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
-3. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
-4. ❗️ Reopened issue [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
+1. ❗️ Closed issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+2. 🗣 Commented on [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+3. ❗️ Opened issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. 🎉 Merged PR [#98](https://github.com/axsddlr/Rehkbot_py/pull/98) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
 5. 🗣 Commented on [#20](https://github.com/oae/kaizoku/issues/20) in [oae/kaizoku](https://github.com/oae/kaizoku)
 <!--END_SECTION:activity-->
 

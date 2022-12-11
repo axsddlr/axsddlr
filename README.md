@@ -13,10 +13,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#38](https://github.com/Zero6992/chatGPT-discord-bot/issues/38) in [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
-2. ❗️ Closed issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-3. 🗣 Commented on [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-4. ❗️ Opened issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
-5. 🎉 Merged PR [#98](https://github.com/axsddlr/Rehkbot_py/pull/98) in [axsddlr/Rehkbot_py](https://github.com/axsddlr/Rehkbot_py)
+2. 🗣 Commented on [#38](https://github.com/Zero6992/chatGPT-discord-bot/issues/38) in [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
+3. ❗️ Closed issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+4. 🗣 Commented on [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
+5. ❗️ Opened issue [#29](https://github.com/axsddlr/api-status/issues/29) in [axsddlr/api-status](https://github.com/axsddlr/api-status)
 <!--END_SECTION:activity-->
 
 ---

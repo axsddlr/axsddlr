@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=axsddlr&color=dc143c)
 ---
 
-![Metrics](https://raw.githubusercontent.com/acheong08/acheong08/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/axsddlr/axsddlr/master/github-metrics.svg)
 
 ---
 ### Spotify Playing 🎧

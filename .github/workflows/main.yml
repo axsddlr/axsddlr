@@ -2,6 +2,13 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
+  # Allows running this workflow manually from the Actions tab, and makes it
+  # obvious in the UI when the generated SVG has gone stale.
+  workflow_dispatch:
+  # Regenerate whenever this workflow itself changes.
+  push:
+    paths:
+      - ".github/workflows/main.yml"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

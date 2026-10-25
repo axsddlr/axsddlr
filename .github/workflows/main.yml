@@ -1,14 +1,19 @@
 name: Metrics
+
+# NOTE (2026-10): the hourly schedule was disabled because METRICS_TOKEN
+# (created 2024-04-12) had expired, which left github-metrics.svg frozen at
+# "Last updated 12 May 2024" and made every scheduled run hang.
+#
+# To turn metrics back on:
+#   1. Create a classic PAT with the `repo` scope (plus `read:user`).
+#   2. Save it as the METRICS_TOKEN repository secret.
+#   3. Uncomment the schedule trigger below.
+#   4. Run this workflow manually once to verify, then re-add the
+#      github-metrics.svg image to README.md.
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Allows running this workflow manually from the Actions tab, and makes it
-  # obvious in the UI when the generated SVG has gone stale.
+  # schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
-  # Regenerate whenever this workflow itself changes.
-  push:
-    paths:
-      - ".github/workflows/main.yml"
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

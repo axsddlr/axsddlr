@@ -17,7 +17,7 @@ that has no usable programmatic interface and giving it a clean one — a typed 
 a TUI, or a small dashboard I actually run myself.
 
 ```python
-focus    = ["unofficial game/esports APIs", "CLI + media tooling", "self-hosted infrastructure"]
+focus     = ["unofficial game/esports APIs", "CLI + media tooling", "self-hosted infrastructure"]
 languages = ["Python", "TypeScript", "Go", "Kotlin"]
 ```
 
@@ -94,24 +94,15 @@ includes the P2P/media protocol used by Night Owl and Raysharp DVRs.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=axsddlr&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=848d97&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=axsddlr&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=848d97&include_all_commits=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axsddlr&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=848d97&langs_count=8)
 
 </div>
-
-<details>
-<summary>📊 Detailed metrics</summary>
-
-<br>
-
-![Metrics](https://raw.githubusercontent.com/axsddlr/axsddlr/master/github-metrics.svg)
-
-</details>
 
 ---
 
 <div align="center">
 
-<sub>Living in <code>America/New_York</code> · Open to interesting problems in scraping, tooling, and self-hosting</sub>
+<sub>Python · TypeScript · Go · Kotlin · <code>America/New_York</code></sub>
 
 </div>

@@ -1,11 +1,117 @@
-### Hi there 👋, I'm Andre Saddler
-[![Linkedin Badge](https://img.shields.io/badge/-andrexsaddler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrexsaddler/)](https://www.linkedin.com/in/andrexsaddler/)
-![](https://komarev.com/ghpvc/?username=axsddlr&color=dc143c)
+<div align="center">
+
+# Andre Saddler
+
+**Python-first developer building unofficial game APIs, CLI downloaders, and self-hosted tooling.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andrexsaddler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrexsaddler/)
+[![Followers](https://img.shields.io/github/followers/axsddlr?style=flat-square&logo=github&label=followers&color=2f81f7)](https://github.com/axsddlr?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=axsddlr&color=dc143c&style=flat-square&label=views)
+
+</div>
+
 ---
+
+I mostly write **Python**. The through-line across most of what I build is taking a site or service
+that has no usable programmatic interface and giving it a clean one — a typed REST endpoint, a CLI,
+a TUI, or a small dashboard I actually run myself.
+
+```python
+focus    = ["unofficial game/esports APIs", "CLI + media tooling", "self-hosted infrastructure"]
+languages = ["Python", "TypeScript", "Go", "Kotlin"]
+```
+
+## What I work on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 Unofficial APIs**
+
+Scrapers wrapped in clean, documented endpoints for games and esports that
+never shipped a public API — Valorant, Lost Ark, Throne and Liberty, AION 2.
+Deployed as FastAPI services with self-hosted docs.
+
+</td>
+<td width="50%" valign="top">
+
+**⌨️ CLI & media tooling**
+
+Downloaders and file tooling that do one job well and survive being scripted:
+manga, VODs, wallpapers, music libraries, password generation.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🛠 Self-hosted infrastructure**
+
+Small services for the homelab — digest-aware Docker update watching with
+rollback and Trivy scanning, parallel rsync, container dedupe.
+
+</td>
+<td valign="top">
+
+**🔬 Reverse engineering**
+
+Documenting protocols and data formats that aren't public — recent work
+includes the P2P/media protocol used by Night Owl and Raysharp DVRs.
+
+</td>
+</tr>
+</table>
+
+## Featured projects
+
+| Project | Description | Stack | Stars |
+|:--|:--|:--|:--:|
+| **[vlrggapi](https://github.com/axsddlr/vlrggapi)** | Unofficial REST API for vlr.gg — Valorant pro match results and news | `Python` `FastAPI` | [![Stars](https://img.shields.io/github/stars/axsddlr/vlrggapi?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/vlrggapi) |
+| **[lost_ark_api](https://github.com/axsddlr/lost_ark_api)** | Unofficial REST API for Lost Ark | `Python` `FastAPI` | [![Stars](https://img.shields.io/github/stars/axsddlr/lost_ark_api?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/lost_ark_api) |
+| **[weebcentral-dl](https://github.com/axsddlr/weebcentral-dl)** | CLI downloader for weebcentral.com | `Python` | [![Stars](https://img.shields.io/github/stars/axsddlr/weebcentral-dl?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/weebcentral-dl) |
+| **[dockwatch](https://github.com/axsddlr/dockwatch)** | Self-hosted Docker update watcher — digest-aware registry checks, approve-before-update, one-click rollback, Trivy scanning, Portainer support | `Python` `Docker` | [![Stars](https://img.shields.io/github/stars/axsddlr/dockwatch?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/dockwatch) |
+| **[owl-viewer](https://github.com/axsddlr/owl-viewer)** | Modern viewer for Night Owl / Raysharp DVRs (P2P ID + media port), with reverse-engineered protocol notes | `TypeScript` | [![Stars](https://img.shields.io/github/stars/axsddlr/owl-viewer?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/owl-viewer) |
+| **[ThroneLiberty_api](https://github.com/axsddlr/ThroneLiberty_api)** | Unofficial API for Throne and Liberty | `Python` | [![Stars](https://img.shields.io/github/stars/axsddlr/ThroneLiberty_api?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/ThroneLiberty_api) |
+| **[MusicORG](https://github.com/axsddlr/MusicORG)** | Desktop music library manager for MP3/FLAC | `Python` `PySide6` | [![Stars](https://img.shields.io/github/stars/axsddlr/MusicORG?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/MusicORG) |
+| **[VOD2YT](https://github.com/axsddlr/VOD2YT)** | Download Twitch VODs and upload to YouTube, with reusable metadata templates and persistent SQLite job state | `Python` | [![Stars](https://img.shields.io/github/stars/axsddlr/VOD2YT?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/VOD2YT) |
+| **[prsync](https://github.com/axsddlr/prsync)** | Parallelizes rsync by bucketing files and running multiple rsync processes at once | `Python` | [![Stars](https://img.shields.io/github/stars/axsddlr/prsync?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/prsync) |
+| **[aion2_api](https://github.com/axsddlr/aion2_api)** | Unofficial JSON API for AION 2 — notices, events, live server population. Client + CLI + HTTP service | `Python` `FastAPI` | [![Stars](https://img.shields.io/github/stars/axsddlr/aion2_api?style=flat-square&label=%E2%98%85&color=f5c542)](https://github.com/axsddlr/aion2_api) |
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Qt/PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=axsddlr&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=848d97&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axsddlr&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=848d97&langs_count=8)
+
+</div>
+
+<details>
+<summary>📊 Detailed metrics</summary>
+
+<br>
 
 ![Metrics](https://raw.githubusercontent.com/axsddlr/axsddlr/master/github-metrics.svg)
 
----
-### Spotify Playing 🎧
+</details>
 
-[![Spotify](https://novatorem.rehkloos.vercel.app/api/spotify)](https://open.spotify.com/user/1249748560)
+---
+
+<div align="center">
+
+<sub>Living in <code>America/New_York</code> · Open to interesting problems in scraping, tooling, and self-hosting</sub>
+
+</div>
